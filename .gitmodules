@@ -1,3 +1,6 @@
 [submodule "inference"]
 	path = inference
 	url = git@github.com:Drakunal/cat-inference.git
+[submodule "train"]
+	path = train
+	url = git@github.com:Drakunal/cat-train.git
